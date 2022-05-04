@@ -6,6 +6,7 @@ module.exports = {
         brand: {
           300: '#996DFF',
           500: '#8257e6',
+          700: '#228B22',
         },
       },
       borderRadius: {
